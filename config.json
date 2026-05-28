@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysarse",
+        "uuid": 33667203,
+        "checksum": "6aw32q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
